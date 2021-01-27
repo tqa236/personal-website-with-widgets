@@ -1,1 +1,4 @@
-# personal-website-with-widgets
+# Personal website with widgets
+
+TODO:
+- Add LinkedIn, Exercism links
