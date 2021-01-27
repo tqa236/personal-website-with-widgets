@@ -1,4 +1,4 @@
 # Personal website with widgets
 
 TODO:
-- Add LinkedIn, Exercism links
+- Update CodersRank info
